@@ -1,3 +1,6 @@
+---
+---
+
 <nav>
     <ul>
       <li><a href="index.html">Home</a></li>
@@ -5,6 +8,6 @@
     </ul>
 </nav>
 
-# Hello! This is my home page.
+## This is my first project.
 
-It's _awesome_!
+And I did a lot of things. All the things. I'm the best.
